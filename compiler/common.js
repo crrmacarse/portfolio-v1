@@ -9,7 +9,7 @@ export const output = {
   path: join(process.cwd(), '/dist'),
   filename: '[name].[hash].bundle.js',
   chunkFilename: '[name].[hash].bundle.js',
-  publicPath: '/',
+  publicPath: '/portfolio-v1/',
 };
 
 export const moduleResolver = {
