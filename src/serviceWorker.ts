@@ -6,7 +6,7 @@
 // I settled with this to manually override the public url if env is not
 // found. This is due to the fact that i can't push env files into
 // the master branch via manual gh-pages deploy.
-const PUBLIC_URL = process.env.PUBLIC_URL || 'https://crrmacarse.github.io';
+const PUBLIC_URL = process.env.PUBLIC_URL || 'https://crrmacarse.github.io/portfolio-v1';
 
 // This lets the app load faster on subsequent visits in production, and gives
 // it offline capabilities. However, it also means that developers (and users)

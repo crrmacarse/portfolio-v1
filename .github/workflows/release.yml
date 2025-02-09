@@ -6,7 +6,7 @@ on:
       - released
 
 env:
-  PUBLIC_URL: http://crrmacarse.github.io
+  PUBLIC_URL: http://crrmacarse.github.io/portfolio-v1
   GA_TRACKING_CODE: ${{ secrets.GA_TRACKING_CODE }}
   FIREBASE_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
   FIREBASE_AUTH_DOMAIN: ${{ secrets.FIREBASE_AUTH_DOMAIN }}

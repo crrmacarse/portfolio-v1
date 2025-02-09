@@ -2,7 +2,7 @@ require('@babel/register');
 const Sitemap = require('./node_modules/react-router-sitemap').default;
 const Router = require('./routes').default;
 
-const PUBLIC_URL = process.env.PUBLIC_URL || 'https://crrmacarse.github.io';
+const PUBLIC_URL = process.env.PUBLIC_URL || 'https://crrmacarse.github.io/portfolio-v1';
 // const BUILD_PATH = './dist/sitemap.xml';
 const MANUAL_BUILD_PATH = './essentials/sitemap.xml'; // https://babeljs.io/docs/en/next/babel-node.html#not-meant-for-production-use
 
