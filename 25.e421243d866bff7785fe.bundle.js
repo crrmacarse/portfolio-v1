@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{663:function(e,n,t){"use strict";t.r(n);var c=t(0),a=t.n(c);n.default=function(){return a.a.createElement("div",{className:"admin-section flex items-center h-screen justify-center flex-col"},a.a.createElement("h1",null,"ADMIN BLOG ADD"))}}}]);
+//# sourceMappingURL=25.e421243d866bff7785fe.bundle.js.map
