@@ -19,7 +19,7 @@ export default () => {
     <ReduxProvider store={store}>
       <VisitedChecker />
       <div className={`theme theme--${theme}`}>
-        <Router>
+        <Router basename="/portfolio-v1">
           <ErrorBoundary>
             <Suspense fallback={<BaseLoader />}>
               <Navbar theme={theme} isFirstTime={isFirstTime} toggleTheme={() => toggleTheme()} />
